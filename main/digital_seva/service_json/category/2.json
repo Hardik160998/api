@@ -1,0 +1,82 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "9",
+            "category_name": "Agricultural Licence",
+            "category_link": "https://www.india.gov.in/topics/agriculture/agricultural-licence",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Agricultural Machinery",
+            "category_link": "https://www.india.gov.in/topics/agriculture/agricultural-machinery",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "Agricultural Produces",
+            "category_link": "https://www.india.gov.in/topics/agriculture/agricultural-produces",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "Research & Extension",
+            "category_link": "https://www.india.gov.in/topics/agriculture/research-extension",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "Crops",
+            "category_link": "https://www.india.gov.in/topics/agriculture/crops",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "14",
+            "category_name": "Dairy",
+            "category_link": "https://www.india.gov.in/topics/agriculture/dairy",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Fertilizers & Pesticides",
+            "category_link": "https://www.india.gov.in/topics/agriculture/fertilizers-pesticides",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "16",
+            "category_name": "Fisheries",
+            "category_link": "https://www.india.gov.in/topics/agriculture/fisheries",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "17",
+            "category_name": "Loans & Credit",
+            "category_link": "https://www.india.gov.in/topics/agriculture/loans-credit",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "18",
+            "category_name": "Soil and Water Conservation",
+            "category_link": "https://www.india.gov.in/topics/agriculture/soil-and-water-conservation",
+            "main_category_id": "2",
+            "is_active": "1"
+        },
+        {
+            "id": "19",
+            "category_name": "Weather",
+            "category_link": "https://www.india.gov.in/topics/agriculture/weather",
+            "main_category_id": "2",
+            "is_active": "1"
+        }
+    ]
+}
