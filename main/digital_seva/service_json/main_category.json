@@ -1,0 +1,95 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "1",
+            "category_name": "Aadhar Card",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/aadhar_card.png",
+            "is_active": "1"
+        },
+        {
+            "id": "2",
+            "category_name": "Agriculture",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/agriculture.png",
+            "is_active": "1"
+        },
+        {
+            "id": "3",
+            "category_name": "Digital Locker",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/digitallocker.png",
+            "is_active": "1"
+        },
+        {
+            "id": "4",
+            "category_name": "Driving Licence",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/driving_licence.png",
+            "is_active": "1"
+        },
+        {
+            "id": "5",
+            "category_name": "Epf Services",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/epf.png",
+            "is_active": "1"
+        },
+        {
+            "id": "6",
+            "category_name": "Goverment Job",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/goverment_job.png",
+            "is_active": "1"
+        },
+        {
+            "id": "7",
+            "category_name": "Bus Services",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/gsrtc.png",
+            "is_active": "1"
+        },
+        {
+            "id": "8",
+            "category_name": "Train Services",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/irctc.png",
+            "is_active": "1"
+        },
+        {
+            "id": "9",
+            "category_name": "Land Records",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/land_records.png",
+            "is_active": "1"
+        },
+        {
+            "id": "10",
+            "category_name": "Lpg Gas",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/lpg_gas.png",
+            "is_active": "1"
+        },
+        {
+            "id": "11",
+            "category_name": "Pancard",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/pancard.png",
+            "is_active": "1"
+        },
+        {
+            "id": "12",
+            "category_name": "Passport",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/passport.png",
+            "is_active": "1"
+        },
+        {
+            "id": "13",
+            "category_name": "Post Office",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/post_office.png",
+            "is_active": "1"
+        },
+        {
+            "id": "15",
+            "category_name": "Voter Id",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/voter_id.png",
+            "is_active": "1"
+        },
+        {
+            "id": "16",
+            "category_name": "Yojna",
+            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/yojna.png",
+            "is_active": "1"
+        }
+    ]
+}
