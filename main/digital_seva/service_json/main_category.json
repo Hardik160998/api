@@ -4,49 +4,49 @@
         {
             "id": "1",
             "category_name": "Aadhar Card",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/aadhar_card.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Faadhar_card.png?alt=media&token=246570e1-8035-40cd-a9d7-6f2d95c132ba",
             "is_active": "1"
         },
         {
             "id": "2",
             "category_name": "Agriculture",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/agriculture.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fagriculture.png?alt=media&token=1e8c8858-9ea9-4c16-bee7-5a5c448ce44e",
             "is_active": "1"
         },
         {
             "id": "3",
             "category_name": "Digital Locker",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/digitallocker.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fdigitallocker.png?alt=media&token=5d4208f0-98aa-44e5-8328-843ca97e823e",
             "is_active": "1"
         },
         {
             "id": "4",
             "category_name": "Driving Licence",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/driving_licence.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fdriving_licence.png?alt=media&token=3593042a-a2d0-485e-b829-cc6274b1bf29",
             "is_active": "1"
         },
         {
             "id": "5",
             "category_name": "Epf Services",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/epf.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fepf.png?alt=media&token=f2712803-1a92-4bec-83d7-2b23f341cb30",
             "is_active": "1"
         },
         {
             "id": "6",
             "category_name": "Goverment Job",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/goverment_job.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fgoverment_job.png?alt=media&token=bb30fdd1-b18f-4cbc-ae6e-c3dd5f4c0379",
             "is_active": "1"
         },
         {
             "id": "7",
             "category_name": "Bus Services",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/gsrtc.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Fgsrtc.png?alt=media&token=834e50b1-e73e-4aa5-a121-c558ab52b73a",
             "is_active": "1"
         },
         {
             "id": "8",
             "category_name": "Train Services",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/irctc.png",
+            "category_icon": "https://firebasestorage.googleapis.com/v0/b/digital-fca8b.appspot.com/o/Category_Thumbnail%2Firctc.png?alt=media&token=6922b5ef-57c5-4d72-b732-4bdcd70a741c",
             "is_active": "1"
         },
         {
