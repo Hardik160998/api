@@ -1,0 +1,12 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "101",
+            "category_name": "Goverment Scheme (Yojna)",
+            "category_link": "https://www.india.gov.in/my-government/schemes",
+            "main_category_id": "16",
+            "is_active": "1"
+        }
+    ]
+}

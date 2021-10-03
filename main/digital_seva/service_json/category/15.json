@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "96",
+            "category_name": "Register Now to Vote",
+            "category_link": "https://www.nvsp.in/",
+            "main_category_id": "15",
+            "is_active": "1"
+        },
+        {
+            "id": "97",
+            "category_name": "Search Name in Voter List",
+            "category_link": "https://electoralsearch.in/",
+            "main_category_id": "15",
+            "is_active": "1"
+        },
+        {
+            "id": "98",
+            "category_name": "Enroll as a NRI Voter",
+            "category_link": "https://www.nvsp.in/Account/Login",
+            "main_category_id": "15",
+            "is_active": "1"
+        },
+        {
+            "id": "99",
+            "category_name": "Service Voters Portal",
+            "category_link": "http://servicevoter.nic.in/",
+            "main_category_id": "15",
+            "is_active": "1"
+        },
+        {
+            "id": "100",
+            "category_name": "Faq For Voters",
+            "category_link": "https://eci.gov.in/faqs/voter-electors/resident-electors/resident-electors-r11/",
+            "main_category_id": "15",
+            "is_active": "1"
+        }
+    ]
+}

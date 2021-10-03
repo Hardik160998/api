@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "85",
+            "category_name": "Post Office - Track Consignment",
+            "category_link": "https://www.indiapost.gov.in/_layouts/15/DOP.Portal.Tracking/TrackConsignment.aspx",
+            "main_category_id": "13",
+            "is_active": "1"
+        },
+        {
+            "id": "86",
+            "category_name": "Post Office - Locate Your Post Office",
+            "category_link": "https://www.indiapost.gov.in/vas/pages/LocatePostOffices.aspx",
+            "main_category_id": "13",
+            "is_active": "1"
+        },
+        {
+            "id": "87",
+            "category_name": "Post Office - Find Your Pin Code",
+            "category_link": "https://www.indiapost.gov.in/vas/pages/findpincode.aspx",
+            "main_category_id": "13",
+            "is_active": "1"
+        },
+        {
+            "id": "88",
+            "category_name": "Post Office - Calculate Postage",
+            "category_link": "https://www.indiapost.gov.in/VAS/Pages/calculatePostage.aspx",
+            "main_category_id": "13",
+            "is_active": "1"
+        }
+    ]
+}

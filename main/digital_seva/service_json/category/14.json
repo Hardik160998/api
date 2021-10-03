@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "89",
+            "category_name": "Apply for Corrections in Ration Card",
+            "category_link": "https://pdsportal.nic.in/",
+            "main_category_id": "14",
+            "is_active": "1"
+        },
+        {
+            "id": "90",
+            "category_name": "Change Address in Ration Card",
+            "category_link": "https://pdsportal.nic.in/",
+            "main_category_id": "14",
+            "is_active": "1"
+        },
+        {
+            "id": "91",
+            "category_name": "Delete a Member from Ration Card",
+            "category_link": "https://pdsportal.nic.in/",
+            "main_category_id": "14",
+            "is_active": "1"
+        }
+    ]
+}
