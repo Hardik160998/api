@@ -1,0 +1,82 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "51",
+            "category_name": "Andhra Pradesh Bus Services",
+            "category_link": "https://www.apsrtconline.in/oprs-web/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "52",
+            "category_name": "Arunachal Pradesh Bus Services",
+            "category_link": "http://www.arunachalipr.gov.in/?p=447",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "53",
+            "category_name": "Aasam Bus Services",
+            "category_link": "https://astc.assam.gov.in/portlets/online-ticket-booking",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "54",
+            "category_name": "Banglore Bus Services",
+            "category_link": "https://ksrtc.in/oprs-web/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "55",
+            "category_name": "Bihar Bus Services",
+            "category_link": "http://bstdc.bih.nic.in/transport.htm",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "56",
+            "category_name": "Calcutta Bus Services",
+            "category_link": "https://wbtc.co.in/bus-service/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "57",
+            "category_name": "Chandigarh Bus Services",
+            "category_link": "http://chdctu.gov.in/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "58",
+            "category_name": "Chennai Bus Services",
+            "category_link": "https://www.livechennai.com/chennai_metro_bus_routes.asp",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "59",
+            "category_name": "Delhi Bus Services",
+            "category_link": "http://www.dtcbooking.in/DTCOnline/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "60",
+            "category_name": "Gujarat Bus Services",
+            "category_link": "https://gsrtc.in/site/",
+            "main_category_id": "7",
+            "is_active": "1"
+        },
+        {
+            "id": "61",
+            "category_name": "Utar Pradesh Bus Services",
+            "category_link": "https://www.upsrtconline.co.in/",
+            "main_category_id": "7",
+            "is_active": "1"
+        }
+    ]
+}

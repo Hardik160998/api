@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "43",
+            "category_name": "Goverment Job",
+            "category_link": "https://www.indgovtjobs.in/2015/10/Government-Jobs.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "44",
+            "category_name": "Employement News",
+            "category_link": "https://www.indgovtjobs.in/2017/04/Employment-News.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "45",
+            "category_name": "Railway News",
+            "category_link": "https://www.indgovtjobs.in/2013/09/railway-jobs-recruitment.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "46",
+            "category_name": "Bank Jobs",
+            "category_link": "https://www.indgovtjobs.in/2013/08/bank-jobs-openings-august-2013.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "47",
+            "category_name": "Police Jobs",
+            "category_link": "https://www.indgovtjobs.in/2014/06/police-jobs-vacancy.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "48",
+            "category_name": "PSC Jobs",
+            "category_link": "https://www.indgovtjobs.in/2016/07/PSC-Recruitment.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "49",
+            "category_name": "State Goverment",
+            "category_link": "https://www.indgovtjobs.in/2014/03/state-wise-govt-jobs.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        },
+        {
+            "id": "50",
+            "category_name": "UPSC",
+            "category_link": "https://www.indgovtjobs.in/2015/04/upsc-exam-vacancy.html",
+            "main_category_id": "6",
+            "is_active": "1"
+        }
+    ]
+}

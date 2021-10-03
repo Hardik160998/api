@@ -1,0 +1,75 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "23",
+            "category_name": "Vehicle Related Services",
+            "category_link": "https://parivahan.gov.in/parivahan/en/content/vehicle-related-services",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "24",
+            "category_name": "Driving License Related Services",
+            "category_link": "https://sarathi.parivahan.gov.in/sarathiservice12/stateSelection.do",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "25",
+            "category_name": "Check Post Tax",
+            "category_link": "https://vahan.parivahan.gov.in/checkpost/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "26",
+            "category_name": "Fancy Number Booking",
+            "category_link": "https://vahan.parivahan.gov.in/fancy/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "27",
+            "category_name": "E_AuthorisationCard",
+            "category_link": "https://parivahan.gov.in/authorization/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "28",
+            "category_name": "Know your License Details",
+            "category_link": "https://parivahan.gov.in/rcdlstatus/?pur_cd=101",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "29",
+            "category_name": "Know your Vehicle Details",
+            "category_link": "https://vahan.nic.in/nrservices/faces/user/searchstatus.xhtml",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "30",
+            "category_name": "National Permit ",
+            "category_link": "https://vahan.parivahan.gov.in/npermit/",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "31",
+            "category_name": "Trade Certificate",
+            "category_link": "https://vahan.parivahan.gov.in/vahantc/vahan/ui/welcome.xhtml",
+            "main_category_id": "4",
+            "is_active": "1"
+        },
+        {
+            "id": "32",
+            "category_name": "Delhi Traffic Police",
+            "category_link": "https://delhitrafficpolice.nic.in",
+            "main_category_id": "4",
+            "is_active": "1"
+        }
+    ]
+}

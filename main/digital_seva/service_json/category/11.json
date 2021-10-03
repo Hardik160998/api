@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "78",
+            "category_name": "Apply for New Pan Card",
+            "category_link": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html",
+            "main_category_id": "11",
+            "is_active": "1"
+        },
+        {
+            "id": "79",
+            "category_name": "Track PAN/TAN Application Status",
+            "category_link": "https://tin.tin.nsdl.com/pantan/StatusTrack.html",
+            "main_category_id": "11",
+            "is_active": "1"
+        },
+        {
+            "id": "80",
+            "category_name": "Pan Centers",
+            "category_link": "https://www.tin-nsdl.com/pan-center.html",
+            "main_category_id": "11",
+            "is_active": "1"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "67",
+            "category_name": "ANDAMAN & NICOBAR ISLANDS Land Record",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=35",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "68",
+            "category_name": "ANDHRA PRADESH Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=28",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "69",
+            "category_name": "ARUNACHAL PRADESH Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=12",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "70",
+            "category_name": "ASSAM Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=18",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "71",
+            "category_name": "BIHAR Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=10",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "72",
+            "category_name": "CHANDIGARGH Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=4",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "73",
+            "category_name": "CHATTISGARH Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptdistrictwisephysical/rptComputerizationOfLandRecord.xhtml?statecode=22",
+            "main_category_id": "9",
+            "is_active": "1"
+        },
+        {
+            "id": "74",
+            "category_name": "All State Land Records",
+            "category_link": "http://dilrmp.gov.in/faces/rptstatewisephysical/rptComputerizationOfLandRecord.xhtml",
+            "main_category_id": "9",
+            "is_active": "1"
+        }
+    ]
+}

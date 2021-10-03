@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "62",
+            "category_name": "Train Search",
+            "category_link": "https://www.irctc.co.in/nget/train-search",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "63",
+            "category_name": "PNR Inquiry",
+            "category_link": "https://www.irctc.co.in/nget/enquiry/pnr-enquiry",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "64",
+            "category_name": "Track Your Train",
+            "category_link": "https://enquiry.indianrail.gov.in/ntes/index.html",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "65",
+            "category_name": "FTR-Coach/Train Charter",
+            "category_link": "https://www.ftr.irctc.co.in/ftr/",
+            "main_category_id": "8",
+            "is_active": "1"
+        },
+        {
+            "id": "66",
+            "category_name": "E- Catering",
+            "category_link": "https://www.ecatering.irctc.co.in/",
+            "main_category_id": "8",
+            "is_active": "1"
+        }
+    ]
+}

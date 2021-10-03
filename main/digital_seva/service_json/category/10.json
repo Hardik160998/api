@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "75",
+            "category_name": "Bharat Gas",
+            "category_link": "https://my.ebharatgas.com/bharatgas/LPGServices/Index",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "76",
+            "category_name": "HP Gas",
+            "category_link": "https://myhpgas.in/myHPGas/HPGas/LPGservices.aspx",
+            "main_category_id": "10",
+            "is_active": "1"
+        },
+        {
+            "id": "77",
+            "category_name": "Indane",
+            "category_link": "https://indane.co.in/transparency/about-portal.php",
+            "main_category_id": "10",
+            "is_active": "1"
+        }
+    ]
+}

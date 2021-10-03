@@ -1,0 +1,26 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "20",
+            "category_name": "What is DigiLocker",
+            "category_link": "https://digilocker.gov.in/about.html",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "21",
+            "category_name": "Digi Locker SignUp",
+            "category_link": "https://digilocker.gov.in/public/websignup#!",
+            "main_category_id": "3",
+            "is_active": "1"
+        },
+        {
+            "id": "22",
+            "category_name": "Digi Locker Login",
+            "category_link": "https://digilocker.gov.in/index.php#no-back",
+            "main_category_id": "3",
+            "is_active": "1"
+        }
+    ]
+}

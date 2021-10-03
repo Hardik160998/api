@@ -1,0 +1,75 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "33",
+            "category_name": "Establishment Registration",
+            "category_link": "https://registration.shramsuvidha.gov.in/user/login",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "34",
+            "category_name": "KYC Updation (Member)",
+            "category_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "35",
+            "category_name": "UMANG",
+            "category_link": "https://web.umang.gov.in/web/#/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "36",
+            "category_name": "ECR/Returns/Payment",
+            "category_link": "https://unifiedportal-emp.epfindia.gov.in/epfo/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "37",
+            "category_name": "Online Claims Member Account Transfer",
+            "category_link": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "38",
+            "category_name": "e-Passbook",
+            "category_link": "https://passbook.epfindia.gov.in/MemberPassBook/Login",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "39",
+            "category_name": "Performance of Establishments",
+            "category_link": "https://iwu.epfindia.gov.in/caiu/defWebList",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "40",
+            "category_name": "Shram suvidha Common ECR (EPFO/ESIC)",
+            "category_link": "https://return.shramsuvidha.gov.in/",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "41",
+            "category_name": "INTERNATIONAL WORKERS",
+            "category_link": "https://www.epfindia.gov.in/site_en/International_workers.php",
+            "main_category_id": "5",
+            "is_active": "1"
+        },
+        {
+            "id": "42",
+            "category_name": "LOCATE an E.P.F OFFICE",
+            "category_link": "https://search.epfindia.gov.in/locate_office/office_location.php",
+            "main_category_id": "5",
+            "is_active": "1"
+        }
+    ]
+}

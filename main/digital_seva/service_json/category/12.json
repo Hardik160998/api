@@ -1,0 +1,33 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": "81",
+            "category_name": "Passport New Registration",
+            "category_link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+            "main_category_id": "12",
+            "is_active": "1"
+        },
+        {
+            "id": "82",
+            "category_name": "Passport - Exist User Login",
+            "category_link": "https://portal2.passportindia.gov.in/AppOnlineProject/user/userLogin",
+            "main_category_id": "12",
+            "is_active": "1"
+        },
+        {
+            "id": "83",
+            "category_name": "Passport - Appointment Availability",
+            "category_link": "https://portal2.passportindia.gov.in/AppOnlineProject/online/apptAvailStatus",
+            "main_category_id": "12",
+            "is_active": "1"
+        },
+        {
+            "id": "84",
+            "category_name": "Passport - Track Application Status",
+            "category_link": "https://portal2.passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusInpNew",
+            "main_category_id": "12",
+            "is_active": "1"
+        }
+    ]
+}
