@@ -1,0 +1,30 @@
+{
+    "status": "1",
+    "data": [
+        {
+            "id": 1,
+            "google_open_ads": "ca-app-pub-3940256099942544/3419835294",
+            "google_banner": "ca-app-pub-3940256099942544/6300978111",
+            "google_native": "ca-app-pub-3940256099942544/2247696110",
+            "google_interstitial": "ca-app-pub-3940256099942544/1033173712",
+			"google_interstitial_two": "ca-app-pub-3940256099942544/1033173712",
+            "google_interstitial_splash": "ca-app-pub-3940256099942544/1033173712",
+			"google_reward_video": "ca-app-pub-3940256099942544/5224354917",
+            "weblink": "https://www.google.com/",            
+            "img_interstial_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/360_640_extra.jpg",
+            "img_native_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_native_ad.jpg",
+            "img_nativeBanner_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_native_ad.jpg",
+            "img_banner_ad": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/img_banner_ad.jpg",
+            "is_image_playstore": "n",
+            "package_name": "com.Birthdays.alarm.reminderAlert",
+            "app_title": "App Title",          
+            "interstitial_priority": ["google","","","google_two"],
+			"spalsh_interstitial_priority": ["interstitial"],
+            "ad_interval_time": 0,            
+            "native_skip": 0,
+            "native_banner_skip": 0,
+            "native_ads": "n",
+			"Agora_APP_IDD": "f55f50b6017c4326acceaa5c5a410d5e"
+        }
+    ]
+}
