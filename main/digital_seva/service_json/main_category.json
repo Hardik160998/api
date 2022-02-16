@@ -52,43 +52,43 @@
         {
             "id": "9",
             "category_name": "Land Records",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/land_records.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/land_records.png",
             "is_active": "1"
         },
         {
             "id": "10",
             "category_name": "Lpg Gas",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/lpg_gas.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/lpg_gas.png",
             "is_active": "1"
         },
         {
             "id": "11",
             "category_name": "Pancard",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/pancard.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/pancard.png",
             "is_active": "1"
         },
         {
             "id": "12",
             "category_name": "Passport",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/passport.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/passport.png",
             "is_active": "1"
         },
         {
             "id": "13",
             "category_name": "Post Office",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/post_office.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/post_office.png",
             "is_active": "1"
         },
         {
             "id": "15",
             "category_name": "Voter Id",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/voter_id.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/voter_id.png",
             "is_active": "1"
         },
         {
             "id": "16",
             "category_name": "Yojna",
-            "category_icon": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/img/yojna.png",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/yojna.png",
             "is_active": "1"
         }
     ]
