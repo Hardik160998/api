@@ -13,7 +13,7 @@
 	    "priority_banner":0,
 	    "interstitial_skip":0,
             "package_name": "com.Birthdays.alarm.reminderAlert",
-            "app_name": "App Title",
+            "app_name": "App Title"
         }
     ]
 }
