@@ -2,11 +2,12 @@
     "status": "1",
     "data": [
         {
-            "google_app_open": "ca-app-pub-3940256099942544/3419835294",
-            "google_banner": "ca-app-pub-3940256099942544/6300978111",
-            "google_native": "ca-app-pub-3940256099942544/2247696110",
-            "google_interstitial": "ca-app-pub-3940256099942544/1033173712",
-            "google_interstitial_splash": "ca-app-pub-3940256099942544/1033173712",
+            "google_app_open": "ca-app-pub-2433403903580856/7907888956",
+            "google_banner": "ca-app-pub-2433403903580856/5473297300",
+            "google_native": "ca-app-pub-2433403903580856/6778161189",
+            "google_interstitial": "ca-app-pub-2433403903580856/1717406194",
+            "google_interstitial_splash": "ca-app-pub-2433403903580856/5968121323",
+		
 		"mopub_interstitial":"24534e1901884e398f1253216226017e",
 		"mopub_interstitial_splash":"24534e1901884e398f1253216226017e",
 		"mopub_native":"11a17b188668469fb0412708c3d16813",
