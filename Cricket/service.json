@@ -15,7 +15,6 @@
          "applovin_native":"",
          "applovin_interstitial":"",
          "applovin_interstitial_splash":"",
-         "priority_interstitial":0,
          "img_banner_native_small":"https://raw.githubusercontent.com/Hardik160998/test/main/Cricket/img_banner_native_small.png",
          "img_ad_icon":"https://raw.githubusercontent.com/Hardik160998/test/main/Cricket/img_ad_icon.png",
          "img_banner_native_large":"https://raw.githubusercontent.com/Hardik160998/test/main/Cricket/img_banner_native_large.png",
@@ -23,12 +22,13 @@
          "img_interstitial":"https://raw.githubusercontent.com/Hardik160998/test/main/Cricket/img_interstitial.png",
          "web_link":"https://www.google.com/",
          "package_name":"",
-         "priority_interstitial_splash":0,
-         "priority_native":0,
-         "priority_banner":0,
+         "priority_interstitial":1,
+         "priority_interstitial_splash":1,
+         "priority_native":1,
+         "priority_banner":1,
          "interstitial_skip":0,
          "app_name":"App Title",
-         "adCount":5
+         "adCount":3
       }
    ]
 }
