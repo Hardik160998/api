@@ -7,17 +7,13 @@
             "google_native": "ca-app-pub-2433403903580856/6778161189",
             "google_interstitial": "ca-app-pub-2433403903580856/1717406194",
             "google_interstitial_splash": "ca-app-pub-2433403903580856/5968121323",
-		
-		"mopub_interstitial":"24534e1901884e398f1253216226017e",
-		"mopub_interstitial_splash":"24534e1901884e398f1253216226017e",
-		"mopub_native":"11a17b188668469fb0412708c3d16813",
             "priority_interstitial": 0,
 	    "priority_interstitial_splash":0,
 	    "priority_native":0,
 	    "priority_banner":0,
 	    "interstitial_skip":0,
             "package_name": "com.Birthdays.alarm.reminderAlert",
-            "app_name": "App Title"
+            "app_name": "Government Gyan"
         }
     ]
 }
