@@ -14,6 +14,12 @@
             "is_active": "1"
         },
         {
+            "id": "7",
+            "category_name": "Bus Services",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/gsrtc.png",
+            "is_active": "1"
+        },
+        {
             "id": "3",
             "category_name": "Digital Locker",
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/digitallocker.png",
@@ -37,18 +43,8 @@
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/goverment_job.png",
             "is_active": "1"
         },
-        {
-            "id": "7",
-            "category_name": "Bus Services",
-            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/gsrtc.png",
-            "is_active": "1"
-        },
-        {
-            "id": "8",
-            "category_name": "Train Services",
-            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/irctc.png",
-            "is_active": "1"
-        },
+        
+     
         {
             "id": "9",
             "category_name": "Land Records",
@@ -61,6 +57,7 @@
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/lpg_gas.png",
             "is_active": "1"
         },
+        
         {
             "id": "11",
             "category_name": "Pancard",
@@ -77,6 +74,12 @@
             "id": "13",
             "category_name": "Post Office",
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/post_office.png",
+            "is_active": "1"
+        },
+           {
+            "id": "8",
+            "category_name": "Train Services",
+            "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/irctc.png",
             "is_active": "1"
         },
         {
