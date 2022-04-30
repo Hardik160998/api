@@ -42,9 +42,7 @@
             "category_name": "Goverment Job",
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/goverment_job.png",
             "is_active": "1"
-        },
-        
-     
+        },    
         {
             "id": "9",
             "category_name": "Land Records",
@@ -57,7 +55,6 @@
             "category_icon": "https://raw.githubusercontent.com/Hardik160998/test/main/main/digital_seva/service_json/category_image/lpg_gas.png",
             "is_active": "1"
         },
-        
         {
             "id": "11",
             "category_name": "Pancard",
